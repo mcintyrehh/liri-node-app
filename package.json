@@ -1,0 +1,20 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "LIRI is a command line Node.js text (Language) interpretation app. It will display my latest tweets, display song information from Spotify,  and movie information from IMDb.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcintyrehh/liri-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcintyrehh/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/mcintyrehh/liri-node-app#readme"
+}
